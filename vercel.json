@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm install",
+  "functions": {
+    "api/bfhl.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "regions": ["sfo1"]
+}
